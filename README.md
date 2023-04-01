@@ -10,4 +10,4 @@ The classification score for each of the models was found and a thorough compari
 
 Then ROC curve and pie charts were drawn to furthermore analyze the performance and the accuracy of the predictions made by the model. 
 
-At last, we could conclude that Random Forest is the most optimal source of the model. 
+At last, it was found that Random Forest is the most optimal source of the model. 
